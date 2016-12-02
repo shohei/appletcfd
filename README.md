@@ -1,4 +1,4 @@
-# cfdapplet
+# appletcfd
 
 ```
 $ appletviewer <appletname>.html
