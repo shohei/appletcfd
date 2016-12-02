@@ -1,0 +1,5 @@
+# cfdapplet
+
+```
+$ appletviewer <appletname>.html
+```
